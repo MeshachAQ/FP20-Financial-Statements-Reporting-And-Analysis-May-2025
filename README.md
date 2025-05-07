@@ -131,6 +131,11 @@ The doughnut chart above shows the revenue distribution by Account. From this, t
 # Conclusion: 
 I believe this is a company that has great potential going forward if they are able to cut down a little cost whiles still employing qualified employees and also providing quality advertisement and sales processes. I also believe that, accepting to invest in investment opportunities will contribute to seeing more revenue streams hence increasing their overall profitability.
 
+
+## Project Video Link: 
+
+https://vimeo.com/1082031349/7d985332f2?ts=0&share=copy
+
 Thank you.
 
 
