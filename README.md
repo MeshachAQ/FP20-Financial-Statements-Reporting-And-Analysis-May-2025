@@ -1,6 +1,6 @@
 # FP20 Challenge-Financial-Statements-Reporting-And-Analysis-May-2025
 
-This is a real-time dataset by FP20 that I took toderive meaningful insights from to help the managers and leadership of a Saas Company pertaining to their Finances.
+This is a real-time dataset by FP20 that I took to derive meaningful insights from to help the managers and leadership of a Saas Company pertaining to their Finances.
 This Project follows a strategic business approach I hoped managers and leaders could use and employ to assist them in their decision making.
 
 # THE 5 MAIN STEPS FOR THIS PROJECT:
@@ -17,7 +17,7 @@ This Project follows a strategic business approach I hoped managers and leaders 
 The business problem facing this company right now is to identify their financial standing as a company and so, we are here to help them make the relevant analysis and report on the business' performance over this period.
 
 # 2. DEFINING THE GOAL OF THIS DASHBOARD AND PROJECT;
-The goal or objective of this dashboard is to analyse, compare, and report on the business's performance, keeping a keen eye on budget vs actuals, revenue trends and expenses insights. This Analysis focuses on deriving splendid insights for a SaaS (Software-as-a-Service Company) Financial Performance comparing the Company's respective revenue and expense accounts, budget details and actuals details and trends.
+The goal or objective of this dashboard is to analyZe, compare, and report on the business's performance, keeping a keen eye on budget vs actuals, revenue trends and expenses insights. This Analysis focuses on deriving splendid insights for a SaaS (Software-as-a-Service Company) Financial Performance comparing the Company's respective revenue and expense accounts, budget details and actuals details and trends.
 
 # 3. WALKING YOU THROUGH KEY VISUALS;
 In this session, I break it down into three different categories.
@@ -27,11 +27,11 @@ In this session, I break it down into three different categories.
 
 
 ## Overview Of Accounts Details Page
-This dashboard page provides a comprehensive overview of the company's account structure, visualizing the distribution and categorization of accounts by revenue/expense type and hierarchical levels. This is to help the company understand the composition of our Accounts chart, and to identify focus areas of the company's financial architeture, and to spot potential gaps or imbalances in account categorization.
+This dashboard page provides a comprehensive overview of the company's account structure, visualizing the distribution and categorization of accounts by revenue/expense type and hierarchical levels. This is to help the company understand the composition of our Accounts chart, and to identify focus areas of the company's financial architecture, and to spot potential gaps or imbalances in account categorization.
 ![image](https://github.com/user-attachments/assets/2688cc1a-aad5-4fa1-abd5-a9c39882e293)
 
 Okay, the first chart I want to talk about is about Account Count(Number of Accounts by level 01 and revenue/expenses type)
-The key takeways from this chart shows:
+The key takeaways from this chart shows:
 1. Operating Expenses accounts overwhelmingly dominates with 26 accounts, all classified as expenses.
 2. Revenue accounts are only present in Income and Other Income Categories, each with just 2 accounts, highlighting a strong skew towards expense accounts.
 
@@ -55,21 +55,21 @@ This dashboard specifically, provides a comprehensive analysis of budgeted reven
 
 ![image](https://github.com/user-attachments/assets/ea074936-a298-4969-8dfd-46818b7e88b5)
 
-First and Foremost, it's essential to understand the budget distribution by short_Class as shown above. what is the key takeway or reason for this?
+First and Foremost, it's essential to understand the budget distribution by short_Class as shown above. what is the key takeaway or reason for this?
 1. This chart shows how 73.4% of the total budgeted amount is geared towards General & Administrative (G&A) accounts which far exceeds all the other classes
 2. It also shows Customer Support (CS) receives the smallest portion of the budget at only 6.2%
 
 
 ![image](https://github.com/user-attachments/assets/86569476-7fcd-4b01-9034-f6876d8b3d06)
 
-The chart above shows the monthly revenue and expenses trend by alloted budget. The key takeways from this chart also shows:
+The chart above shows the monthly revenue and expenses trend by budget. The key takeaways from this chart also shows:
 1. Both revenue and expenses show a steady upward trend over the observed period.
 2. Periodically, it also shows revenue to some extent, consistently outpaced expenses, indicating positive financial.
 
 
 ![image](https://github.com/user-attachments/assets/da0b2d3e-cda5-4569-8ff6-206cccc80e1e)
 
-Here, we can also see the waterfall chart above showing monthly budgets by quarter and the key takeways here include:
+Here, we can also see the waterfall chart above showing monthly budgets by quarter and the key takeaways here include:
 1. Net budget amount is negative for most quarters, with only the first two quarters and Q3 2024 Showing Positive Values.
 2. Also, the cumulative net budget change is nearly ($3 million) a loss, highlighting a long term deficit trend
 
@@ -77,7 +77,7 @@ Here, we can also see the waterfall chart above showing monthly budgets by quart
 
 
 ## Overview Of Actuals or Transactional Details Page
-This dashboard page, provides a comprehensive analysis of the company's financial transactions, focusing on overall revenue andexpenses trends, category breakdowns and key performance indicators. The company should focus on this to monitor the overall financial health, spot spending patterns, and identify opportunities for optimization across accounts and departments.
+This dashboard page, provides a comprehensive analysis of the company's financial transactions, focusing on overall revenue and expenses trends, category breakdowns and key performance indicators. The company should focus on this to monitor the overall financial health, spot spending patterns, and identify opportunities for optimization across accounts and departments.
 
 ![image](https://github.com/user-attachments/assets/5c8c9b72-645f-4f13-873a-2a3a0374f010)
 
@@ -88,21 +88,21 @@ The line and stacked column chart above shows the monthly revenue and expenses t
 
 ![image](https://github.com/user-attachments/assets/3022f676-1367-4495-8d6c-543078f681b4)
 
-The doughnut chart above shows the expense distribution by short_class department. From this, the key takeways or what the visual is telling is that:
+The doughnut chart above shows the expense distribution by short_class department. From this, the key takeaways or what the visual is telling is that:
 1. General and Administration (G&A) Expenses accounts for the largest share of total expenses, significantly higher than other departments.
 2. Also, Customer Support (CS) has the lowest expense allocation, suggesting potential underinvestment or efficiancy in that department.
 
 
 ![image](https://github.com/user-attachments/assets/94836eb0-bb27-4971-8fc8-fa83ceec5ef5)
 
-The Stacked area chart above shows the expense distribution overtime. From this, the key takeways or what the visual is telling is that:
+The Stacked area chart above shows the expense distribution overtime. From this, the key takeaways or what the visual is telling is that:
 1. All departments show a steady increase in expenses over time, with General and Administrative consistently being the largest contributor.
 2. Sales and Marketing and Research and Developement also demonstrates notable growth, while Customer Support remained relatively stable and the smallest in magnitude.
 
 
 ![image](https://github.com/user-attachments/assets/599630ee-2886-41d4-943e-e2bccb007deb)
 
-The doughnut chart above shows the revenue distribution by Account. From this, the key takeways or what the visual is telling is that:
+The doughnut chart above shows the revenue distribution by Account. From this, the key takeaways or what the visual is telling is that:
 1. SaaS Revenue overwhelmingly dominates the revenue streams, making up the vast majority of total revenue.
 
 
@@ -123,7 +123,7 @@ The doughnut chart above shows the revenue distribution by Account. From this, t
 
 # Recommendations:
 
-1.There is a saying that, "To become a millionaire and be able to earn 7-8 figures, you need to learn to let money work for you and have a diversified portfolio". As aresult, seeing how the revenue for this SaaS company only comes from two sources, I would advice the company to consider investing into prominent and promising investment opportunities as well. The interest on these investments will contribute to increasing their only streams of income by a number or two.
+1.There is a saying that, "To become a millionaire and be able to earn 7-8 figures, you need to learn to let money work for you and have a diversified portfolio". As a result, seeing how the revenue for this SaaS company only comes from two sources, I would advice the company to consider investing into prominent and promising investment opportunities as well. The interest on these investments will contribute to increasing their only streams of income by a number or two.
 
 2. Across board, its deduced that General and Administrative expense covers majority of the expenses and as a result, it's crucial to identify if the company is overpaying some employees and if there is a way to reduce that.
 3. The company should also look to cut down a little on ther Sales and Marketing expense as well as Research and Development expense while still maintaining highest advertisement qualities.
