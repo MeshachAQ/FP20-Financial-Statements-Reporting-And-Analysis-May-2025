@@ -3,7 +3,7 @@
 This is a real-time dataset by FP20 that I took to derive meaningful insights from to help the managers and leadership of a Saas Company pertaining to their Finances.
 This Project follows a strategic business approach I hoped managers and leaders could use and employ to assist them in their decision making.
 
-# THE 5 MAIN STEPS FOR THIS PROJECT:
+# THE 6 MAIN STEPS FOR THIS PROJECT:
 
 ### 1. IDENTIFYING THE BUSINESS PROBLEM
 ### 2. DEFINING THE GOAL OF THIS DASHBOARD AND PROJECT
