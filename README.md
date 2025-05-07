@@ -1,4 +1,4 @@
-# FP20-Financial-Statements-Reporting-And-Analysis-May-2025
+# FP20 Challenge-Financial-Statements-Reporting-And-Analysis-May-2025
 
 This is a real-time dataset by FP20 that I took toderive meaningful insights from to help the managers and leadership of a Saas Company pertaining to their Finances.
 This Project follows a strategic business approach I hoped managers and leaders could use and employ to assist them in their decision making.
